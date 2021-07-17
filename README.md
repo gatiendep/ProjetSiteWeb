@@ -13,7 +13,7 @@
 
 * [Présentation](#presentation)
   * [Sujet](#sujet)
-  * [Architecture minimale du site Web](#archiMin)
+  * [Architecture minimale du site Web imposée](#archiMin)
   * [Consignes générales](#consignesGenerales)
 * [Présentation des pages](#presentationPages)
   * [Accueil](#accueil)
@@ -28,10 +28,10 @@
 ## <a name="presentation"></a> Présentation
 
 ### <a name="sujet"></a> Sujet
-> Vous devez réaliser le site Web d’une entreprise fictive avec un unique produit / logiciel révolutionnaire fictif. La taille des groupes est de 4 personnes au plus.
+> Vous devez réaliser le site Web d’une entreprise fictive avec un unique produit/logiciel révolutionnaire fictif. La taille des groupes est de 4 personnes au plus.
 
 
-### <a name="archiMin"></a> Architecture minimale du site Web
+### <a name="archiMin"></a> Architecture minimale du site Web imposée
 Il y aura un menu de navigation avec sous-menus commun à toutes vos pages. Voici une liste minimale de pages que vous devez avoir :
 
 * **Produit** : Une page qui présente le produit avec *punchline*, photo, et le logo de l’entreprise (créé tel que vu dans le TD d’infographie);
