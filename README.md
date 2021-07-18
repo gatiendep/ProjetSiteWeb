@@ -99,7 +99,7 @@ La page **Équipe** présente chaque membre du groupe à l'aide d'un texte et d'
 ### <a name="presse"></a> Presse
 
 Cette page se compose de deux parties, la partie principale affiche les évènements et les informations mises en avant par le site. La deuxième affiche des actualités en lien avec *Dracovente* ou les Pokémon.
-On trouve également un graphique des ventes de *Dracovente* s'agrandissant lorsqu'on passe la sourie dessus.
+On trouve également un graphique des ventes de *Dracovente* s'agrandissant lorsqu'on passe la souris dessus.
 
 *Page réalisée principalement par Gatien Depeyre*
 
@@ -121,6 +121,8 @@ Les métiers 1, 2, 3 présentés sur cette page sont sous forme de tableau, car 
 ### <a name="cssGlobal"></a> CSS global
 
 #### *Header*
+Le *header* n'est pas une partie très optimisée de notre site car l'absence de php nous oblige de le remettre sur chaque page. Néanmoins, nous sommes contents du résultat, la page vers laquelle l'utilisateur est en train de se diriger est bien mise en valeur par un changement de couleur et de taille de bouton.
+La version pour petits écrans est un « menu *burger* » afin d'optimiser la place disponible. Nous l'avons situé sur la droite.
 
 #### *Footer*
 
