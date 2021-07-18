@@ -121,6 +121,7 @@ Les métiers 1, 2, 3 présentés sur cette page sont sous forme de tableau, car 
 ### <a name="cssGlobal"></a> CSS global
 
 #### *Header*
+
 Le *header* n'est pas une partie très optimisée de notre site car l'absence de php nous oblige de le remettre sur chaque page. Néanmoins, nous sommes contents du résultat, la page vers laquelle l'utilisateur est en train de se diriger est bien mise en valeur par un changement de couleur et de taille de bouton.
 La version pour petits écrans est un « menu *burger* » afin d'optimiser la place disponible. Nous l'avons situé sur la droite.
 
@@ -129,4 +130,7 @@ La version pour petits écrans est un « menu *burger* » afin d'optimiser la pl
 Pour le *footer*, nous avons décidé de faire une bande avec les couleurs globales du site, contenant des liens vers des réseaux sociaux (*Facebook*, *Twitter* et *Instagram*) pour lui donner plus de réalisme. Ces pages rammènent vers les comptes de *Pokémon* sur ces différents sites. Le répertoire *GitHub* initialement utilisé figure également dans le *footer*. 
 
 #### Responsivité
+
+Nous avons travaillé la responsivité de sorte à ce que le menu se change en « menu *burger* » comme précisé dans la partie qui lui est dédiée. Nous avons aussi choisi de mettre les parties *aside* en bas des pages et nous avons retravaillé les marges en fonction de la taille de l'écran.
+
 
