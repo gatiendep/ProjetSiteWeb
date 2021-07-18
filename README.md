@@ -98,6 +98,9 @@ La page **Équipe** présente chaque membre du groupe à l'aide d'un texte et d'
 
 ### <a name="presse"></a> Presse
 
+Cette page se compose de deux parties, la partie principale affiche les évènements et les informations mises en avant par le site. La deuxième affiche des actualités en lien avec *Dracovente* ou les Pokémon.
+On trouve également un graphique des ventes de *Dracovente* s'agrandissant lorsqu'on passe la sourie dessus.
+
 *Page réalisée principalement par Gatien Depeyre*
 
 ### <a name="faq"></a> F.A.Q
